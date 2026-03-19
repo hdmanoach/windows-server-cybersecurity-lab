@@ -7,9 +7,9 @@
 ![Python](https://img.shields.io/badge/Python-Flask-green)
 ![Projet](https://img.shields.io/badge/Type-Projet%20Homelab-purple)
 
-![windows-server](https://github.com/user-attachments/assets/a04e70ac-44dc-4b06-846e-d937e97ae17c)
-
 ---
+#
+![windows-server](https://github.com/user-attachments/assets/a04e70ac-44dc-4b06-846e-d937e97ae17c)
 
 # Présentation du projet
 
