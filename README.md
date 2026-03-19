@@ -38,8 +38,7 @@ Ce projet vise à reproduire une **architecture hybride Windows / Linux**, très
 
 Architecture simplifiée du laboratoire :
 
-![Architecture de l’infrastructure]([doc/images/shecma.svg](https://github.com/hdmanoach/windows-server-cybersecurity-lab/tree/d8e1af25c3a8a9152b1271c5c0124665dea3eafe/doc/images))
-
+![Architecture de l’infrastructure]([doc/images/shecma.svg])
 Source modifiable : [shecma.drawio](shecma.drawio)
 
 
