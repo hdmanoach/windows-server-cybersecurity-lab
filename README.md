@@ -39,8 +39,7 @@ Ce projet vise à reproduire une **architecture hybride Windows / Linux**, très
 Architecture simplifiée du laboratoire :
 
 ```
-![Schéma SRVBEN](docs/images/shecma.svg)
-```
+doc/images/shecma.svg```
 
 ---
 
