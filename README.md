@@ -38,7 +38,7 @@ Ce projet vise à reproduire une **architecture hybride Windows / Linux**, très
 
 Architecture simplifiée du laboratoire :
 
-![Architecture de l’infrastructure]([doc/images/shecma.svg])
+![Architecture de l’infrastructure]([images/shecma.png])
 Source modifiable : [shecma.drawio](shecma.drawio)
 
 
@@ -209,7 +209,7 @@ Dans ce laboratoire, l'agent Wazuh a été testé sur un serveur Windows afin d'
 
 Ci-dessous une capture du serveur Windows utilisé pour l'expérimentation de l'agent Wazuh.
 
-![Serveur Windows surveillé](screenshots/server_manager_windows.png)
+![Serveur Windows surveillé](images/capture27.png)
 
 Cette machine constitue le **serveur principal de l'infrastructure** et héberge plusieurs services critiques :
 
