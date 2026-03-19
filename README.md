@@ -38,7 +38,7 @@ Ce projet vise à reproduire une **architecture hybride Windows / Linux**, très
 
 Architecture simplifiée du laboratoire :
 
-![Architecture de l’infrastructure]([images/shecma.png])
+![Architecture de l’infrastructure](images/capture22.png)
 Source modifiable : [shecma.drawio](shecma.drawio)
 
 
