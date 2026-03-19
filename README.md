@@ -38,8 +38,10 @@ Ce projet vise à reproduire une **architecture hybride Windows / Linux**, très
 
 Architecture simplifiée du laboratoire :
 
-```
-doc/images/shecma.svg```
+![Schéma SRVBEN](docs/images/shecma.svg)
+
+Source modifiable : [shecma.drawio](shecma.drawio)
+
 
 ---
 
@@ -148,8 +150,7 @@ J’ai tenté de déployer une application **Python Flask** sur le serveur IIS.
 
 Dépôt du projet :
 
-👉 Lien vers l’application Flask
-(à remplacer par ton lien GitHub)
+👉 [Lien vers l’application Flask](https://github.com/hdmanoach/project-srvben)
 
 Même si l’installation de IIS a été réussie, **le déploiement de l’application Flask n’a pas abouti comme je le souhaitais**.
 
