@@ -308,5 +308,3 @@ Ce projet représente ma démarche personnelle pour **apprendre en construisant 
 Certaines parties ont très bien fonctionné, d’autres ont été plus complexes, mais chacune d’entre elles a contribué à renforcer ma compréhension des systèmes.
 
 Je suis particulièrement motivé à **continuer à apprendre et à appliquer ces compétences dans un environnement professionnel réel**.
-# windows-server-cybersecurity-lab
-Ce projet présente la mise en place d’une infrastructure hybride basée sur Windows Server 2022 et Linux. Il intègre Active Directory, DNS, DHCP, GPO, l’intégration Linux au domaine, un serveur de fichiers Samba avec ACL, le mappage réseau et la supervision avec Wazuh , afin de démontrer des compétences en administration système et cybersécurité.
