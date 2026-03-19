@@ -11,6 +11,7 @@
 #
 ![windows-server](https://github.com/user-attachments/assets/a04e70ac-44dc-4b06-846e-d937e97ae17c)
 
+---
 # Présentation du projet
 
 Ce projet est un **laboratoire personnel d’infrastructure informatique** visant à simuler un **environnement d’entreprise** basé sur **Windows Server 2022**.
@@ -38,28 +39,8 @@ Ce projet vise à reproduire une **architecture hybride Windows / Linux**, très
 Architecture simplifiée du laboratoire :
 
 ```
-+----------------------+
-|   Windows Server     |
-|   SRVBEN-01          |
-|----------------------|
-| Active Directory     |
-| DNS Server           |
-| DHCP Server          |
-| Group Policy (GPO)   |
-| IIS Web Server       |
-+----------+-----------+
-|
-|
------------------------------------------
-|                                       |
-+----------------+                    +----------------+
-| Client Windows |                    | Serveur Debian |
-| Joint au       |                    | Joint au       |
-| domaine        |                    | domaine        |
-|                |                    |                |
-| Authentification|                   | Serveur Samba  |
-| AD              |                   | Partage fichiers|
-+----------------+                    +----------------+
+<img width="900" height="650" alt="shecma" src="https://github.com/user-attachments/assets/6d00e501-6320-4af2-a33e-a96eb20fb3f7" />
+
 ```
 
 ---
